@@ -1,8 +1,0 @@
-{
-    "require": {
-        "symfony/form": "^7.0",
-        "symfony/security-bundle": "^7.0",
-        "symfony/translation": "^7.0",
-        "knplabs/knp-paginator-bundle": "^6.4"
-    }
-}
